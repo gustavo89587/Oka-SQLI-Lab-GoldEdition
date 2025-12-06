@@ -1,0 +1,12 @@
+{
+  "version": "2.2",
+  "name": "MITRE Heatmap – Beauty SQLI Gold Edition",
+  "domain": "enterprise-attack",
+  "techniques": [
+    { "techniqueID": "T1190", "score": 100 },
+    { "techniqueID": "T1056.001", "score": 80 },
+    { "techniqueID": "T1217", "score": 70 },
+    { "techniqueID": "T1068", "score": 90 },
+    { "techniqueID": "T1027", "score": 60 }
+  ]
+}
